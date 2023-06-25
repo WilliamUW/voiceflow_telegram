@@ -1,5 +1,9 @@
 # Voiceflow x Telegram
 
+TLDR, run:
+
+npm install && node app.js
+
 ## Prerequisites
 
 Here you have the technologies used in this project
